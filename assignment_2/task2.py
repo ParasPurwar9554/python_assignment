@@ -8,7 +8,7 @@ Problem Statement: Write a Python program that:
 """
 
 sum = 0
-for item in range(51):
+for item in range(1,51):
     sum += item
 
 print(f"The Sum of numbers from 1 to 50 is : {sum}")    
